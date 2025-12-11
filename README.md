@@ -16,7 +16,7 @@ This project focuses on:
 
 ## 📂 Dataset
 **CIFAKE: Real vs AI-Generated Images**  
-Kaggle link: https://www.kaggle.com/datasets/vivmankar/cifake-real-and-ai-generated-images
+Kaggle link: https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images
 
 - 60k real images  
 - 60k AI-generated images  
@@ -51,5 +51,5 @@ This project highlights why **Explainable AI is important**, because the model c
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cifake-cnn.git
-cd cifake-cnn
+git clone https://github.com/HadesXLord/kaggle-CIFAKE-custom-pyTorch.git
+cd kaggle-CIFAKE-custom-pyTorch
